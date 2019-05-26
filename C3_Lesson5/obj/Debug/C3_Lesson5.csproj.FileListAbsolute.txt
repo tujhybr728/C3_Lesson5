@@ -1,0 +1,7 @@
+C:\Users\Егор\Documents\Visual Studio 2017\Projects\C3_Lesson5\C3_Lesson5\bin\Debug\C3_Lesson5.exe.config
+C:\Users\Егор\Documents\Visual Studio 2017\Projects\C3_Lesson5\C3_Lesson5\bin\Debug\C3_Lesson5.exe
+C:\Users\Егор\Documents\Visual Studio 2017\Projects\C3_Lesson5\C3_Lesson5\bin\Debug\C3_Lesson5.pdb
+C:\Users\Егор\Documents\Visual Studio 2017\Projects\C3_Lesson5\C3_Lesson5\obj\Debug\C3_Lesson5.csprojAssemblyReference.cache
+C:\Users\Егор\Documents\Visual Studio 2017\Projects\C3_Lesson5\C3_Lesson5\obj\Debug\C3_Lesson5.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\Visual Studio 2017\Projects\C3_Lesson5\C3_Lesson5\obj\Debug\C3_Lesson5.exe
+C:\Users\Егор\Documents\Visual Studio 2017\Projects\C3_Lesson5\C3_Lesson5\obj\Debug\C3_Lesson5.pdb
